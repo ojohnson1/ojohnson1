@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome
 
-<!--
-**ojohnson1/ojohnson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Unsplash flower image](https://source.unsplash.com/ATgfRqpFfFI/600x300)
 
-Here are some ideas to get you started:
+My name is Olivia. I am a student in the Web Development II class. I am a **_certified beginner_** in web development. However, I think that it is a great creative outlet. Speaking of outlets...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Hobbies 
+ * Italian Language Learning
+ * Gardening 
+ * Cooking
+
+I hope that by taking this course my knowledge and skill set in Web Development will expand.
+
+
+This a link to my fiest ever [website](https://about-me-ojohnson1.netlify.app/). 
+
+Feel free to make any suggestions for improvement!
+
