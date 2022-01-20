@@ -5,9 +5,9 @@
 My name is Olivia. I am a student in the Web Development II class. I am a **_certified beginner_** in web development. However, I think that it is a great creative outlet. Speaking of outlets...
 
 ## My Hobbies 
- * Italian Language Learning
- * Gardening 
- * Cooking
+ * Italian Language Learning 💚 🤍 ❤️
+ * Gardening 💐
+ * Cooking 🥘
 
 I hope that by taking this course my knowledge and skill set in Web Development will expand.
 
