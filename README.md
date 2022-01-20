@@ -12,7 +12,7 @@ My name is Olivia. I am a student in the Web Development II class. I am a **_cer
 I hope that by taking this course my knowledge and skill set in Web Development will expand.
 
 
-This a link to my fiest ever [website](https://about-me-ojohnson1.netlify.app/). 
+This a link to my first ever [website](https://about-me-ojohnson1.netlify.app/). 
 
 Feel free to make any suggestions for improvement!
 
